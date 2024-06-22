@@ -44,7 +44,7 @@ body{
 }
 
 .header.sticky{
-     background: transparent;
+     background: var(--bg-color);
 }
 
 .logo{
